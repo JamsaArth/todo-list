@@ -40,8 +40,12 @@ the license
 
 ## Autores
 
-- **Javier Acosta Sánchez** - *Elaboración de la plantilla README* -
-[Profile A](https://github.com/JamsaArth)
-- **Isis Vecino Borrego** - *Elaboración de la plantilla README* -
-[Profile B](https://github.com/AstIsis)
+- **Javier Acosta Sánchez** - *Elaboración de la plantilla README* - [Profile A](https://github.com/JamsaArth)
+- **Isis Vecino Borrego** - *Elaboración de la plantilla README* - [Profile B](https://github.com/AstIsis)
+
+## License
+Este proyecto trabaja con la licencia [CC0 1.0
+Universal](licencia.md) Creative Commons License [¹] 
+
+ [¹]: Para más detalles consulta el archivo de [Licencia](Licencia.md)
 
