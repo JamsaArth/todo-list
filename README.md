@@ -30,3 +30,10 @@ Termine con un ejemplo de cómo obtener algunos datos del sistema o usarlos para
 ### Deployment
 
 Agregue notas adicionales para implementar esto en un sistema en vivo
+
+## Built With
+- [Contributor Covenant](https://www.contributor-covenant.org/) - Used
+for the Code of Conduct
+- [Creative Commons](https://creativecommons.org/) -
+Used to choose
+the license
