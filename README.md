@@ -37,3 +37,11 @@ for the Code of Conduct
 - [Creative Commons](https://creativecommons.org/) -
 Used to choose
 the license
+
+## Autores
+
+- **Javier Acosta Sánchez** - *Elaboración de la plantilla README* -
+[Profile A](https://github.com/JamsaArth)
+- **Isis Vecino Borrego** - *Elaboración de la plantilla README* -
+[Profile B](https://github.com/AstIsis)
+
